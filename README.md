@@ -4,10 +4,10 @@
   Artificial Intelligence (Al) and Machine Learning solutions for Police functions like Identity Resolution on disjoined databases, Natural Language Processing over Indian Languages, Speech to Text converters in Indian Languages and more.
   
 ## Existing Complications 
-Using recorded clips from investigation for future referencing
-Improper Communication due to Language Barrier
-Unable to comprehend the report written in FIR
-Lack of sophisticated Identity Resolution technique on disjoined databases
+- Using recorded clips from investigation for future referencing
+- Improper Communication due to Language Barrier
+- Unable to comprehend the report written in FIR
+- Lack of sophisticated Identity Resolution technique on disjoined databases
  ## Solutions proposed
  + Using a high accuracy Voice To Text conversion model to maintain a Text Document
  	+ Allows for easy search through the whole transcript
