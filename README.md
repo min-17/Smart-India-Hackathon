@@ -1,4 +1,4 @@
-# Cereal Killers Smart India Hackathon
+# Cereal Killers (Smart India Hackathon)
  ## Department of National Crime Records Bureau 
  > [Problem SK123](https://www.sih.gov.in/sih2020PS/Ng==/U29mdHdhcmU=/TkFUSU9OQUwgQ1JJTUUgUkVDT1JEUyBCVVJFQVU=/QWxs)
 	
