@@ -6,8 +6,8 @@
  Artificial Intelligence (Al) and Machine Learning solutions for Police functions like Identity Resolution on disjoined databases, Natural Language Processing over Indian Languages, Speech to Text converters in Indian Languages and more.
   
 ## Existing Complications 
-- Using recorded clips from investigation for future referencing
-- Improper Communication due to Language Barrier
+- Using recorded clips from investigation for future reference
+- Miscommunication and misinterpretation due to Language Barriers
 - Unable to comprehend the report written in FIR
 - Lack of sophisticated Identity Resolution technique on disjoined databases
  ## Solutions proposed
@@ -17,7 +17,7 @@
  - Updated Framework for better Identity Resolution 
  
  ### API's used
- 1. Google Transcibe
+ 1. Google Transcribe
  2. Google Translate
  
  ### Tech Stack
