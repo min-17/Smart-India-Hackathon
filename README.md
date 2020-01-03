@@ -19,16 +19,16 @@ Lack of sophisticated Identity Resolution technique on disjoined databases
  2. Google Translate
  
  ### Tech Stack
- 1. JavaScript
+ * JavaScript
  	1. React Native
  	2. Electron
  	3. NodeJS
- 2. Python
- 	Scikit Learn
-	TextBlob
-	indic_nlp_library
- 3. Tools
- 	Talend | Informatica
+ * Python
+ 	* Scikit Learn
+	* TextBlob
+	* indic_nlp_library
+ * Tools
+ 	* Talend | Informatica
  
  ### *References*
  Jiexun LiAlan G. Wang 's [Research paper](https://link.springer.com/article/10.1186/s13388-015-0021-0) on Identity Resolution
