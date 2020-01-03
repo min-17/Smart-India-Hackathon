@@ -31,4 +31,4 @@ Lack of sophisticated Identity Resolution technique on disjoined databases
  	Talend | Informatica
  
  ### *References*
- Jiexun LiAlan G. Wang 's [Research paper](https://link.springer.com/article/10.1186/s13388-015-0021-0) on Identity Resoluti
+ Jiexun LiAlan G. Wang 's [Research paper](https://link.springer.com/article/10.1186/s13388-015-0021-0) on Identity Resolution
